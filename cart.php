@@ -72,9 +72,9 @@ $action = $_GET["action"];
 	  <div class="collapse navbar-collapse" id="ftco-nav">
 	      <ul class="navbar-nav ml-auto">
 				  <li class="nav-item"><a href="index.html" class="nav-link">Главная</a></li>
-				  <li class="nav-item"><a href="menu.php" class="nav-link">Меню</a></li>
+          <li class="nav-item"><a href="menu.php" class="nav-link">Меню</a></li>
+          <li class="nav-item"><a href="shop.php" class="nav-link">Заказать</a></li>
 				  <li class="nav-item"><a href="about.html" class="nav-link">О нас</a></li>
-				  <li class="nav-item"><a href="shop.php" class="nav-link">Заказать</a></li>
           <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="contact.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Контакты</a>
         <div class="dropdown-menu" aria-labelledby="dropdown04">
